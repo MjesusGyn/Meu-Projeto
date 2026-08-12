@@ -1,1 +1,1 @@
-print('Hello gitgit init')
+print('Hello git & VSCode')
